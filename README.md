@@ -1,6 +1,9 @@
-<h1 align="center"><span style="color:#00FF00">Hi 👋, I'm Arif</span></h1>
+<h1 align="center">Hi 👋, I'm Arif</h1>
 
-<h3 align="center"><span style="color:#00FF00">Software and technology enthusiast.</span></h3>
+<p align="center">
+  <img src="https://svg-badge.vercel.app/api?label=&message=Software%20and%20technology%20enthusiast.&color=00FF00&style=flat" alt="Green Text"/>
+</p>
+
 
 ### Connect :
 <p align="left">
