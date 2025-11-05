@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Arif</h1>
+<h1 align="center"><span style="color:#00FF00">Hi 👋, I'm Arif</span></h1>
 
-<h3 align="center">Software and technology enthusiast.</h3>
+<h3 align="center"><span style="color:#00FF00">Software and technology enthusiast.</span></h3>
 
 ### Connect :
 <p align="left">
