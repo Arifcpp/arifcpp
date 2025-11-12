@@ -30,5 +30,5 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Arifcpp&show_icons=true&theme=react" alt="GitHub Stats" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifcpp&layout=compact&theme=react" alt="Top Languages" />
 </p>
