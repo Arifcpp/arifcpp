@@ -4,7 +4,7 @@
 
 ### Connect :
 <p align="left">
-  <a href="https://www.linkedin.com/in/aarif-%C9%99mirov-bb5613389/" target="_blank">
+  <!--<a href="https://www.linkedin.com/in/arif-%C9%99mirov-bb5613389/" target="_blank"> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn"/>
   </a>
   <a href="https://play.google.com/store/apps/dev?id=8982268170848334133" target="_blank">
